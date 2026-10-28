@@ -37,7 +37,8 @@ This session marked the first day of the DevOps module, transitioning from prior
 | Purpose      | Local version tracking             | Centralized remote repository |
 | Ownership    | Open source                        | Purchased by **Microsoft**    |
 
-- Git is used by an estimated **97% of developers/companies** worldwide. 
+- Git is used by an estimated **97% of developers/companies** worldwide.
+- Git is a distributed version control system because every developer who clones a repository gets a full, mirrored copy of the entire project history.
 - GitHub alternatives include **GitLab** and **Bitbucket** — same Git concepts apply, only the UI/tool changes. 
 - Git and GitHub communicate via **authentication/authorization mechanisms** such as SSH keys. 
 
